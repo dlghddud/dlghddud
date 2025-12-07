@@ -1,13 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=HongYoung's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
-<h2> 이홍영(Lee hongyoung) </h2>
+
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 이홍영(Lee hongyoung) </h2>
 <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
     저는 더 나은 서비스를 개발하고 싶은 개발자입니다.<br/>
     문제를 해결해 나가는 과정을 즐깁니다.
 </div>
 
----
-
-<h2> 🛠️ Tech Stacks </h2>
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br/>
 <div style="margin: ;">
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
@@ -25,11 +24,12 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
 </div>
 
----
-
-<h2> 🧑‍💻 Contact me </h2>
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br/>
 <div>
     <a href=https://velog.io/@hy7012/posts>
         <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@hy7012/posts">
+    </a>
+    <a href=mailto:dlghddud7012@naver.com>
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:dlghddud7012@naver.com">
     </a>
 </div>
